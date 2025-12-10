@@ -724,10 +724,10 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 If you find this repository useful, please consider citing this list:
 
 ```
-@misc{Deng20243dgspaperlist,
-    title = {awesome-Implicit-NeRF-SLAM},
-    author = {Tianchen Deng, Yue Pan, Xingxing Zuo, Shenghai Yuan, Nailin Wang, Hesheng Wang, Jingchuan Wang, Cyrill Stachniss, Lihua Xie, Danwei Wang, Weidong Chen},
-    howpublished = {\url{https://github.com/dtc111111/awesome-3dgs-for-robotics}},
-    year = {2024}
+@article{deng2025best,
+  title={What Is The Best 3D Scene Representation for Robotics? From Geometric to Foundation Models},
+  author={Deng, Tianchen and Pan, Yue and Yuan, Shenghai and Li, Dong and Wang, Chen and Li, Mingrui and Chen, Long and Xie, Lihua and Wang, Danwei and Wang, Jingchuan and others},
+  journal={arXiv preprint arXiv:2512.03422},
+  year={2025}
 }
 ```
