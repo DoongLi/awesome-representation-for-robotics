@@ -414,16 +414,29 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ## 2.Mapping<a id="mapping"></a>
 ### 2.1 Point Cloud<a id="2.1-Point-Cloud"></a>
-
+- COLMAP
+- Cube-SLAM
+- QuadricSLAM
+- ConceptFusion
+- ElasticFusion
 
 ### 2.2 Voxel Grid<a id="2.2-Voxel-Grid"></a>
+- VoxelMap
+- LiDAR Road-Atlas
+- OctoMap
 
 ### 2.3 Signed Distance Field (SDF)<a id="2.3-Signed-Distance-Field(SDF)"></a>
 
+- Voxgraph
+- KinectFusion
 
 ### 2.4 Mesh<a id="2.4-Mesh"></a>
+- Kimera
 
 ### 2.5 Scene Graph<a id="2.5-Scene-Graph"></a>
+- ConceptGraphs
+- Clio
+- Hydra
 
 ### 2.6 Neural Radiance Fields (NeRF)<a id="2.6-Neural-Radiance-Fields(NeRF)"></a>
 
@@ -739,20 +752,40 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 
 ### 2.8 Foundation Model<a id="2.8-Foundation-Model></a>
-
+- CUT3R
+- Pow3R
+- MASt3R
+- MUSt3R
+- VGGT
+- Spann3R
+- π3
+- DUSt3R
 
 ## 3.Localization<a id="localization></a>
 
 ### 3.1 Point Cloud<a id="3.1-Point-Cloud"></a>
+- F-LOAM
+- ORB-SLAM2
+- DROID-SLAM
+- TEASER++
+- KISS-ICP
+- MonoSLAM
 
 ### 3.2 Voxel Grid<a id="3.2-Voxel-Grid"></a>
+- Voxel-Loc
+- Voxel-6D
+
 
 ### 3.3 Signed Distance Field (SDF)<a id="3.3-Signed-Distance-Field(SDF)"></a>
+- Free-space features
+- Freetures
+
 
 ### 3.4 Mesh<a id="3.4-Mesh"></a>
 
 ### 3.5 Scene Graph<a id="3.5-Scene-Graph"></a>
-
+- X-View
+- SG-Reg
 
 ### 3.6 Neural Radiance Fields (NeRF)<a id="3.6-Neural-Radiance-Fields(NeRF)"></a>
 
@@ -801,8 +834,10 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
   
 ### 3.8 Foundation Model<a id="3.8-Foundation-Model<"></a>
-
-
+- VGGT-SLAM
+- SLAM3R
+- ViSTA-SLAM
+- MASt3R-SLAM
 
 ## 4.Navigation<a id="navigation"></a>
 
